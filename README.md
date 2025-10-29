@@ -59,6 +59,7 @@ Click Submit to send the data (backend integration required to process submissio
 Demo
 
 You can view a live demo of this project here:
+
 file:///media/mspl/880E-6712/Registration%20Page/Reg.html
 
 License

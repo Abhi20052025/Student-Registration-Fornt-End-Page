@@ -40,7 +40,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-username/student-registration-frontend.git
+git clone https://github.com/Abhi20052025/Student-Registration-Fornt-End-Page/tree/main
 
 
 Navigate to the project folder:

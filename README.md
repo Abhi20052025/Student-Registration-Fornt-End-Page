@@ -60,7 +60,7 @@ Demo
 
 You can view a live demo of this project here:
 
-file:///media/mspl/880E-6712/Registration%20Page/Reg.html
+file:http://127.0.0.1:35925/Reg.html
 
 License
 
